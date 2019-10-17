@@ -138,7 +138,7 @@ msgid "About DuckDuckGo"
 msgstr "À propos de DuckDuckGo"
 
 msgid "About Us"
-msgstr ""
+msgstr "À propos de nous"
 
 #. Ad like 'advertisement'
 msgid "Ad"
@@ -237,7 +237,7 @@ msgid "All Places"
 msgstr "Partout"
 
 msgid "All Regions"
-msgstr "Toute les régions"
+msgstr "Toutes les régions"
 
 msgid "All Results"
 msgstr "Tous les résultats"
@@ -270,11 +270,11 @@ msgstr "Déjà fan ? %sFaites connaitre DuckDuckGo !%s"
 
 msgctxt "mobile promotion on desktop"
 msgid "Also search privately on your iPad, iPhone, or Android!"
-msgstr "Recherchez secrètement également sur IOS ou Android !"
+msgstr "Recherchez secrètement également sur iOS ou Android !"
 
 #. Instant Answer Tab Name
 msgid "Alternatives"
-msgstr ""
+msgstr "Alternatives"
 
 #. http://i.imgur.com/89c3nJI.png
 msgctxt "settingsvalue"
@@ -291,7 +291,7 @@ msgstr "Réponse"
 
 #. In feedback page, first box. https://duckduckgo.com/feedback 
 msgid "Answers to most DuckDuckGo questions, like:"
-msgstr "Réponses à la plupart des questions sur DuckDuckGo, comme:"
+msgstr "Réponses à la plupart des questions sur DuckDuckGo, comme :"
 
 msgctxt "video-duration"
 msgid "Any Duration"
@@ -316,7 +316,7 @@ msgid "App"
 msgstr "Application"
 
 msgid "App and Extension"
-msgstr ""
+msgstr "Application et extension"
 
 msgid "Appearance"
 msgstr "Apparence"
@@ -328,7 +328,7 @@ msgstr "Apparence"
 
 #. Instant Answer Tab Name
 msgid "Apps"
-msgstr ""
+msgstr "Applications"
 
 msgid "Argentina"
 msgstr "Argentine"
@@ -343,10 +343,10 @@ msgstr ""
 
 msgctxt "homepage ATB modal"
 msgid "At DuckDuckGo, we agree."
-msgstr "A DuckDuckGo, nous sommes d'accord."
+msgstr "À DuckDuckGo, nous sommes d'accord."
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Australia"
 msgstr "Australie"
@@ -357,7 +357,7 @@ msgstr "Autriche"
 #. http://i.imgur.com/DIzKQRl.png
 msgctxt "settings"
 msgid "Auto-Suggest"
-msgstr "Autocomplétion"
+msgstr "Suggestion automatique"
 
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
@@ -365,7 +365,7 @@ msgid "Automatically open relevant Instant Answers"
 msgstr "Ouvrir automatiquement les réponses instantanées pertinentes"
 
 msgid "Avoid eavesdropping and enhance wi-fi security."
-msgstr "Evite l'écoute numérique et renforce la sécurité du wi-fi."
+msgstr "Évite l'écoute numérique et renforce la sécurité du wi-fi."
 
 msgctxt "homepage onboarding"
 msgid "Back to search"
@@ -412,7 +412,7 @@ msgstr ""
 #. Subcategory
 msgctxt "Newbang"
 msgid "Bang url"
-msgstr "Url Bang"
+msgstr "URL Bang"
 
 #. https://duckduckgo.com/newbang
 #. The following required fields were not filled:
@@ -428,11 +428,11 @@ msgstr "L'URL du Bang"
 #. https://duckduckgo.com/newbang
 #. e.g.: Bang url, e.g. http://duckduckgo.com/?q={{{s}}} 
 msgid "Bang url, e.g. %s"
-msgstr "Url Bang, par exemple %s"
+msgstr "URL Bang, par exemple %s"
 
 #. This text always refers to the DuckDuckGo bangs function: https://duckduckgo.com/bang 
 msgid "Bangs"
-msgstr ""
+msgstr "Bangs"
 
 #. Instant Answer tab name
 msgid "Barcode"
@@ -458,7 +458,7 @@ msgstr ""
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Beta"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
@@ -486,10 +486,10 @@ msgstr "Bloque les traqueurs publicitaires"
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Blocks trackers on websites you visit"
-msgstr ""
+msgstr "Bloque les traqueurs sur les sites que vous visitez"
 
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #. The color blue
 msgid "Blue"
@@ -544,10 +544,10 @@ msgid "Call"
 msgstr "Appeler "
 
 msgid "Canada"
-msgstr ""
+msgstr "Canada"
 
 msgid "Canada (fr)"
-msgstr ""
+msgstr "Canada"
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -660,14 +660,14 @@ msgid "Changes whether the visited check mark is visible"
 msgstr "Affiche une coche devant les résultats de recherche visités"
 
 msgid "Chat"
-msgstr ""
+msgstr "Chat"
 
 msgid "Check %sMake this the current search engine%s"
 msgstr "Cochez %sUtilisez en tant que moteur de recherche par défaut%s"
 
 msgctxt "SERP footer content"
 msgid "Check out our privacy device guides."
-msgstr ""
+msgstr "Regarder nos guides d'appareils privés"
 
 msgctxt "showcase_privacy"
 msgid "Check out our privacy device guides."
@@ -679,7 +679,7 @@ msgstr "Consultez la liste de choses que nous avons également accomplies"
 
 msgctxt "Report image modal"
 msgid "Child sexual abuse"
-msgstr ""
+msgstr "Violences sexuelles infligées à des enfants"
 
 msgid "Chile"
 msgstr "Chili"
@@ -4458,10 +4458,10 @@ msgid "White"
 msgstr "Blanc"
 
 msgid "Who We Are"
-msgstr ""
+msgstr "Qui nous sommes"
 
 msgid "Why Privacy"
-msgstr ""
+msgstr "Pourquoi protéger la vie privée ?"
 
 msgctxt "image-layout"
 msgid "Wide"
